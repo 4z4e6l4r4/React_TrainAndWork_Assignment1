@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Şerif",
+      "email": "user1@example.com",
+      "password": "sifre123",
+      "donations": [
+        100,
+        250,
+        500
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Zeliha",
+      "email": "user2@example.com",
+      "password": "parola456",
+      "donations": [
+        50,
+        150
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ciya",
+      "email": "user3@example.com",
+      "password": "789",
+      "donations": [
+        300,
+        200,
+        100,
+        50
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Beyza",
+      "email": "user4@example.com",
+      "password": "9910",
+      "donations": [
+        780
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ayşe",
+      "email": "user5@example.com",
+      "password": "1010",
+      "donations": [
+        92300
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Azra",
+      "email": "user6@example.com",
+      "password": "1111",
+      "donations": [
+        1300
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Yasemin",
+      "email": "",
+      "donations": [
+        2340
+      ]
+    },
+    {
+      "id": 8,
+      "name": "",
+      "email": "",
+      "donations": [
+        0
+      ]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "email": "",
+      "donations": [
+        0
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Azra R",
+      "email": "AFDASFD@",
+      "password": "Q@",
+      "donations": []
+    },
+    {
+      "id": 11,
+      "name": "AASDSAD",
+      "email": "ASDASDADS",
+      "donations": [
+        15
+      ]
+    }
+  ],
+  "nonameusers": [
+    {
+      "id": 4,
+      "email": "anonim1@example.com",
+      "donation": 1500
+    },
+    {
+      "id": 5,
+      "email": "anonim2@example.com",
+      "donation": 2000
+    }
+  ]
+}
